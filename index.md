@@ -1,6 +1,3 @@
-# Test creation of this website
-
-
 # Paloma et al. 2019 - Observational Study of the Thermodynamics and Morphological Characteristics of a Midlatitude Continential Cold Pool Event
 
 ## Introduction
@@ -53,7 +50,8 @@
     - Create a new methodology for identifying cold pools from radar
         - Proof of concept using NEXRAD observations
 
-# Datasets
+## Datasets
+
 - Primary dates - 23-24 May 2011
 - Most data collected from ARM
     - Radar deployments
@@ -81,9 +79,10 @@
     - QC'd data using method from Jensen et al. 2015
     - Used sounding station S1 (160km NW of radar near Pratt, KS)
 
-# Method
+## Method
 
-## Cold Pool Detection/Estimation of Height and Speed
+### Cold Pool Detection/Estimation of Height and Speed
+
 - Leading edge of cold pool (LECP) identified using thin line echoes on radar
 - Edited radar data using NCAR Solo-II radar data processing software
     - Manually isolate thin line from rest of the radar image in each of the PPI images (where possible)
@@ -102,7 +101,8 @@
         - Ex. at 2.4 degrees, uncertainty = 440 m
         - Increases as distance from radar increases
 
-# Results
+## Results
+
 - LECP formation was due to several cells (individual thunderstorms)
 
 - Surface observations
